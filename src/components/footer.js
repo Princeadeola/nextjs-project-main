@@ -1,5 +1,5 @@
 import React from 'react'
-
+ 
 const footer = () => {
   return (
     <div className='flex sm:flex-col md:flex-col flex-row justify-around bg-orange-200 py-24 px-10'>

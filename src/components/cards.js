@@ -5,7 +5,7 @@ import beet from "../asset/beet.png"
 import cocoa from "../asset/cocoa.png"
 import coffee from "../asset/coffee.png"
 import maca from "../asset/maca.png"
-import vanilla from "../asset/vanilla.png"
+import vanilla from "../asset/vanilla.png" 
 import salt from "../asset/salt.png"
 
 function Cards() {

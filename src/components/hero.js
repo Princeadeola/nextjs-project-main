@@ -4,7 +4,7 @@ import React from 'react'
 // import { Carousel } from 'react-responsive-carousel';
 import heroimage from "../asset/hero.jpg"
 
-
+ 
 
 const hero = () => {
   return (

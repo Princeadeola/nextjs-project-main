@@ -4,9 +4,9 @@ import Basket from "../asset/basket.png"
 import hero from '../asset/hero.jpg';
 import Nav from "./responsivenav"
 
-function Navbar() {
+function Navbar() { 
  
-  return (  
+  return (   
     <div classname="relative">
       <Nav/>
       <Image src={hero} alt="hero" className='object-cover w-screen h-screen'/>
